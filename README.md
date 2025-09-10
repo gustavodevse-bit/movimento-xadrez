@@ -43,41 +43,7 @@ Esquerda
 Esquerda
 Esquerda
 
-🚀 Como compilar e executar
-Pré-requisitos
 
-Ter instalado um compilador C, como o GCC (disponível no Linux, macOS e Windows via MinGW ou WSL).
-
-Ter instalado o Git para clonar o repositório (opcional).
-
-Passos
-
-Clone este repositório ou baixe o arquivo xadrez.c:
-
-git clone https://github.com/SEU-USUARIO/xadrez-movimento.git
-cd xadrez-movimento
-
-
-Compile o programa:
-
-gcc xadrez.c -o xadrez
-
-
-Execute o programa:
-
-./xadrez
-
-
-No Windows, basta rodar:
-
-xadrez.exe
-
-📂 Estrutura do Projeto
-xadrez-movimento/
-│-- xadrez.c        # Código-fonte em C
-│-- README.md       # Documentação do projeto
-
-📝 Observações
 
 O programa não implementa o jogo completo de xadrez, apenas uma simulação simples dos movimentos das peças especificadas.
 
